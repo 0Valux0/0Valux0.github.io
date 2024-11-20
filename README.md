@@ -40,4 +40,4 @@
 
 <h1 align="center">Other Stuff</h1>
 
-<p> align="center">Hello!</p>
+<p align="center">Hello!</p>
