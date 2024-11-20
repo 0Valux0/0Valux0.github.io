@@ -1,6 +1,6 @@
 <p align="center">
  
-  <img src="Img Link" width="150px" height="150px">
+  <img src="https://0Valux0.github.io/Valux.png" width="150px" height="150px">
 
 </p>
 
