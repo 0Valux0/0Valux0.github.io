@@ -10,28 +10,3 @@ a {
 a:hover {
     color: pink;
 }
-
-.side-menu {
-            position: fixed;
-            right: 0;
-            top: 50%;
-            transform: translateY(-50%);
-            background-color: #333;
-            color: white;
-            width: 200px;
-            box-shadow: -2px 0 5px rgba(0, 0, 0, 0.5);
-            border-radius: 5px;
-            padding: 10px;
-        }
-
-.side-menu a {
-            color: white;
-            text-decoration: none;
-            display: block;
-            padding: 10px;
-            transition: background 0.3s;
-        }
-
-.side-menu a:hover {
-            background-color: #808080;
-        }
