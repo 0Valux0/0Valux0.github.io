@@ -1,12 +1,12 @@
 body {
-    background: linear-gradient(black, white);
+    background-color: black;
     color: white;
 }
 
 a {
-    color: #ADD8E6;
+    color: blue;
 }
 
 a:hover {
-    color: #ff69b4;
+    color: pink;
 }
