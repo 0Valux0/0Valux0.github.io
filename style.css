@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background: linear-gradient(black, white);
     color: white;
 }
 
@@ -8,5 +8,5 @@ a {
 }
 
 a:hover {
-    color: pink;
+    color: #ff69b4;
 }
