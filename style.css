@@ -86,7 +86,7 @@ a.button:hover {
     width: 280px;
     height: 100%;
     left: 0;
-    position: fixed;
+    position: right;
     z-index: 8;
     background-color: rgb(27, 27, 27);
 }
