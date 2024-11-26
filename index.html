@@ -9,8 +9,17 @@
   <title>Valux Games</title>
 </head>
 <body>
-   <div class="sidenav">
-    <h1>☰</h1>
+  
+   <button class="sidenav" onclick="openMenu()">☰</button>
+
+  <div class="sidenav" id="sideMenu">
+    <button class="close-btn" onclick="closeMenu()">X</button>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Services</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
   </div>
 
   <div class="topnav">
